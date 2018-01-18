@@ -1,5 +1,5 @@
 # Machine-Learning-
 
-Digits Classifier
-Titanic Survival
-House Prices Prediction
+Digits Classifier, 
+  Titanic Survival,
+    House Prices Prediction .
