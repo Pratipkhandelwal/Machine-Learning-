@@ -2,6 +2,6 @@
 
 Digits Classifier, 
   Titanic Survival,
-    House Prices Prediction 
+    House Prices Prediction,
       Digits classifier using keras (Deep Learning)
       
